@@ -39,15 +39,15 @@ int main(int argc, char** argv){
                   	record++;
                   	}
 				  
-				  	else if(number2>max2){
-				  	max2=number2;
-				  	record++;
-				  	}
+		else if(number2>max2){
+		max2=number2;
+		record++;
+		}
 					   
-				  	else if(number3>max3){
-				  	max3=number3;
-				  	record++;
-				  	}
+		else if(number3>max3){
+		max3=number3;
+		record++;
+		}
                        
 }
 
